@@ -17,7 +17,6 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React!!!!!!!!!!!
-          React é legal.
         </a>
       </header>
     </div>
